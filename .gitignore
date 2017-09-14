@@ -1,0 +1,8 @@
+build.xml
+.DS_Store
+build/
+HEAD
+hooks/
+nbproject/
+
+
